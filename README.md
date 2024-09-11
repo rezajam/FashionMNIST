@@ -5,6 +5,10 @@ This project implements a Convolutional Neural Network (CNN) using **PyTorch** t
 
 The model achieved **~93% accuracy** on the validation set, and while the project is not entirely original, it was crucial in helping me grasp key concepts in deep learning and PyTorch.
 
+The practice is based on the following resources:
+-  https://www.kaggle.com/code/adrynh/pytorch-tutorial-with-fashion-mnist
+-  https://medium.com/@krishna.ramesh.tx/training-a-cnn-to-distinguish-between-mnist-digits-using-pytorch-620f06aa9ffa
+
 ## Project Goals
 - Study and implement a **CNN architecture** using PyTorch.
 - Understand how to manage and process image data with PyTorch’s `DataLoader` and `torchvision`.
