@@ -3,7 +3,7 @@
 ## Overview
 This project implements a Convolutional Neural Network (CNN) using **PyTorch** to classify images from the **FashionMNIST** dataset, which consists of 28x28 grayscale images of clothing items. This project was inspired by a Kaggle notebook and served as a learning tool to understand the basics of **PyTorch** and **CNNs**.
 
-The model achieved **~93% accuracy** on the validation set, and while the project is not entirely original, it was crucial in helping me grasp key concepts in deep learning and PyTorch.
+The model achieved **~71% accuracy** on the validation set, and while the project is not entirely original, it was crucial in helping me grasp key concepts in deep learning and PyTorch.
 
 The practice is based on the following resources:
 -  https://www.kaggle.com/code/adrynh/pytorch-tutorial-with-fashion-mnist
